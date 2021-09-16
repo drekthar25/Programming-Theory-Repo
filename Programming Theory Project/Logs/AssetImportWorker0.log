@@ -672,6 +672,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< Updated upstream
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -7314,3 +7315,5 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFF50710000), size: 1982464 (r
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
  * C:/Users/DREK'T~1/AppData/Local/Temp/Unity/Editor/Crashes
+=======
+>>>>>>> Stashed changes
